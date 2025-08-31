@@ -1,0 +1,9 @@
+[user]
+	email = williamluu04@gmail.com
+	name = WTL04
+[core]
+	editor = nvim
+[init]
+	defaultBranch = main
+[fetch]
+	prune = true
